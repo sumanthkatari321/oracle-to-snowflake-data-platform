@@ -1,0 +1,12 @@
+apache-airflow
+snowflake-connector-python
+snowflake-sqlalchemy
+pandas
+boto3
+dbt-core
+dbt-snowflake
+great-expectations
+sqlalchemy
+cx_Oracle
+pyyaml
+pytest
